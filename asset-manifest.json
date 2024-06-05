@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Analise-e-Projeto-de-Sistemas/static/css/main.334c1bb3.css",
+    "main.js": "/Analise-e-Projeto-de-Sistemas/static/js/main.accbbc23.js",
+    "static/js/787.8eb42f38.chunk.js": "/Analise-e-Projeto-de-Sistemas/static/js/787.8eb42f38.chunk.js",
+    "index.html": "/Analise-e-Projeto-de-Sistemas/index.html",
+    "main.334c1bb3.css.map": "/Analise-e-Projeto-de-Sistemas/static/css/main.334c1bb3.css.map",
+    "main.accbbc23.js.map": "/Analise-e-Projeto-de-Sistemas/static/js/main.accbbc23.js.map",
+    "787.8eb42f38.chunk.js.map": "/Analise-e-Projeto-de-Sistemas/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334c1bb3.css",
+    "static/js/main.accbbc23.js"
+  ]
+}
